@@ -1,0 +1,66 @@
+[
+  {
+    "id": "a1b2c3d4-0001-4000-8000-000000000001",
+    "position": 1,
+    "filepath": "src/pages/slides/Slide1Title.tsx",
+    "title": "Focus — A productivity companion for everything",
+    "description": "Title slide with hero workspace image",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0002-4000-8000-000000000002",
+    "position": 2,
+    "filepath": "src/pages/slides/Slide2Problem.tsx",
+    "title": "The problem with productivity tools",
+    "description": "Four pain points: fragmented apps, no calendar-todo sync, scattered notes, nothing surfacing priorities",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0003-4000-8000-000000000003",
+    "position": 3,
+    "filepath": "src/pages/slides/Slide3Features.tsx",
+    "title": "One app, every workflow",
+    "description": "Three-column card layout: Core, Intelligence, Automation feature groups",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0004-4000-8000-000000000004",
+    "position": 4,
+    "filepath": "src/pages/slides/Slide4AI.tsx",
+    "title": "AI that does the work",
+    "description": "Dark slide showcasing natural-language AI companion powered by OpenAI",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0005-4000-8000-000000000005",
+    "position": 5,
+    "filepath": "src/pages/slides/Slide5Awareness.tsx",
+    "title": "Stay on top of everything",
+    "description": "2x2 grid: Global Search, Push Notifications, Recurring Tasks, Weekly Stats",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0006-4000-8000-000000000006",
+    "position": 6,
+    "filepath": "src/pages/slides/Slide6Stack.tsx",
+    "title": "Built on a modern stack",
+    "description": "Tech tags across Frontend, Motion & Data, and APIs rows",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0007-4000-8000-000000000007",
+    "position": 7,
+    "filepath": "src/pages/slides/Slide7Roadmap.tsx",
+    "title": "What's next",
+    "description": "Five roadmap items: Subtasks, Pomodoro, Habit Tracker, Data Export, Bulk Actions",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0008-4000-8000-000000000008",
+    "position": 8,
+    "filepath": "src/pages/slides/Slide8Close.tsx",
+    "title": "Get started",
+    "description": "Dark closing slide with tagline",
+    "speakerNotes": ""
+  }
+]
